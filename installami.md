@@ -17,6 +17,16 @@ sudo apt update
 sudo apt install -y python3.10 python3.10-venv python3.10-dev
 ```
 
+
+## 0. COME INSTALLARE dal repo AK stefanovilla-ak/sam-3d-objects
+
+procedura ancora da testare, per creare un progetto nuovo installare da 
+```
+1. COME INSTALLARE dal repo originale facebookresearch/sam-3d-objects
+```
+
+
+
 ## 1. COME INSTALLARE dal repo originale facebookresearch/sam-3d-objects
 
 

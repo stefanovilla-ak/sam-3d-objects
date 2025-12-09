@@ -5,13 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7b77f9b-456c-4bea-8821-8cd858e8def1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/image_to_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/installami.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/environments/default.yml" beforeDir="false" afterPath="$PROJECT_DIR$/environments/default.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gsplat" beforeDir="false" afterPath="$PROJECT_DIR$/gsplat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/third_party/glm" beforeDir="false" afterPath="$PROJECT_DIR$/gsplat/gsplat/cuda/csrc/third_party/glm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.p3d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.p3d.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_to_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_to_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/installami.md" beforeDir="false" afterPath="$PROJECT_DIR$/installami.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/patching/hydra" beforeDir="false" afterPath="$PROJECT_DIR$/patching/hydra" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/attention/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/attention/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/attention/full_attn.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/attention/full_attn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/attention/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/attention/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/attention/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/attention/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/attention/full_attn.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/attention/full_attn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/attention/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/attention/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/attention/serialized_attn.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/attention/serialized_attn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/attention/windowed_attn.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/attention/windowed_attn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/conv/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/conv/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/conv/conv_spconv.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/conv/conv_spconv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/linear.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/linear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/nonlinearity.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/nonlinearity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/norm.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/norm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/spatial.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/sparse/spatial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/modules/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/renderers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/renderers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/renderers/gaussian_render.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/renderers/gaussian_render.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/renderers/octree_renderer.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/renderers/octree_renderer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/renderers/sh_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/renderers/sh_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/gaussian/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/gaussian/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/gaussian/gaussian_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/gaussian/gaussian_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/gaussian/general_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/gaussian/general_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/octree/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/octree/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/octree/octree_dfs.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/octree/octree_dfs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/radiance_field/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/representations/radiance_field/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/sam3d_objects/model/backbone/tdfy_dit/utils/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
