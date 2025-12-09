@@ -169,7 +169,7 @@ dependencies:
   - pixman=0.44.2=h29eaf8c_0
   - pthread-stubs=0.4=hb9d3cd8_1002
   - pulseaudio-client=17.0=hb77b528_0
-  - python=3.11.0=he550d4f_1_cpython
+  - python=3.10
   - qt-main=5.15.8=hc9dc06e_21
   - readline=8.2=h8c095d6_2
   - setuptools=75.8.2=pyhff2d567_0
